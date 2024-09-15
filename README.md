@@ -1,18 +1,10 @@
 # Spotify Clone
 
 ## Project Title: Spotify Clone
+## Deployed Link:(#https://krish-spotify-clone.netlify.app/)
 
 ## Description
-This project is a Spotify clone developed using React and styled with Tailwind CSS, utilizing Vite as the build tool. It serves as a personal music streaming platform that allows users to explore and play music tracks. This project marks my first significant foray into React development, and I have learned a tremendous amount throughout the process.
-
-## Table of Contents
-- [Technologies Used](#technologies-used)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Learning Outcomes](#learning-outcomes)
-- [Future Improvements](#future-improvements)
-- [Acknowledgments](#acknowledgments)
+This project is a Spotify clone developed using React and styled with Tailwind CSS, utilizing Vite as the build tool. It serves as a personal music streaming platform that allows users to explore and play music tracks. This project marks my first significant foray into React development, and I have learned a tremendous amount throughout the process.This is not a full Stack Clone, however i have plans for upgrading this in future as i am currently learning Backend.
 
 ## Technologies Used
 - **React**: For building the user interface.
@@ -27,9 +19,3 @@ This project is a Spotify clone developed using React and styled with Tailwind C
 - Responsive design that works well on both desktop and mobile devices.
 - Ability to play, pause, and skip tracks.
 
-## Installation
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/spotify-clone.git
